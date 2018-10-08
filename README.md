@@ -388,6 +388,10 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
   [![github-alt][github-img]](https://github.com/ganeshmajhi)
 
 # H
+### HannHank
+- Software Student 
+- Programming in Python,C,C++,Lua
+- [![github-alt][github-img]](https://github.com/HannHank)
 
 ### Hafpaf
 - Software student
@@ -981,7 +985,7 @@ Please note that this project is released with a [Code of Conduct](CODE_OF_CONDU
 
 ### Yee Antonio
 - I am a Backend and Mobile Developer.
-- [![twitter-alt][twitter-img]](https://twitter.com/antonioyee)
+- [![twitter-alt][twitter-img]](ttps://twitter.com/antonioyee)
   [![github-alt][github-img]](https://github.com/antonioyee)
 
 # Z
